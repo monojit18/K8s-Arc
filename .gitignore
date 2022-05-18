@@ -1,0 +1,8 @@
+!.gitignore
+**/.vscode
+Microservices/**/.vscode
+Misc
+**/Misc
+**/local.settings.json
+**/bin
+**/obj
